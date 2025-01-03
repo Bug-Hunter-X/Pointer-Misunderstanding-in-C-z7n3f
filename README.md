@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating a common error involving pointers. The program modifies a variable indirectly using a pointer and then prints the updated value of the variable.  The example highlights how understanding memory management with pointers is essential to avoid unexpected behavior in C.
